@@ -55,7 +55,8 @@
 </div>
 
 </td><td valign="top" width="33%">
-
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </td></tr></table>  
 
 <br/>  
@@ -80,6 +81,7 @@
 
 ## Github Stats  
 ![Ansh Yadav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansh1423&show_icons=true&count_private=true&hide_border=true)
+
  
 
 <br/>  
