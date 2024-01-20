@@ -81,9 +81,7 @@
 
 ## Github Stats
 
-<div style="width: 100%; height: 100%;">
-  ![Ansh Yadav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansh1423&show_icons=true&count_private=true&hide_border=true)
-</div>
+![Ansh Yadav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansh1423&show_icons=true&count_private=true&hide_border=true)
 
 <br/>  
 
