@@ -1,19 +1,21 @@
 ![githubcover](https://github.com/aarjun8060/aarjun8060/blob/main/githubcover.jpg)
   
 
-### <div align="center">Hey there! 👋 I'm Arjun Singh, a software developer passionate about building meaningful and efficient applications.</div>  
+### <div align="center">Hey there! 👋 I'm Ansh Yadav, a B.Tech undergraduate in Computer Science. 👨‍💻 Passionate about Full Stack Development, I thrive on crafting meaningful and efficient applications. Let's connect and explore the world of code! 🚀.</div>  
   
 
-- 🔭 I’m currently working on [TechPyro]()  
+- 👨‍💻 Ansh Yadav, B.Tech in Computer Science.  
   
 
-- 🌱 I’m currently learning Devops  
+-🌟 Intern at Mindrops, optimized project delivery.
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🎓 Maintains 9.00 CGPA.
   
 
-- ⚡ Fun fact: I use tabs over spaces🤣  
+-🔭 Working on TechPyro.
+
+-💻 Proficient in MERN stack.
   
 
 <br/>  
