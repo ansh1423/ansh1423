@@ -1,7 +1,7 @@
 ![githubcover](https://github.com/aarjun8060/aarjun8060/blob/main/githubcover.jpg)
   
 
-### <div align="center">Hey there! 👋 I'm Ansh Yadav, a B.Tech undergraduate in Computer Science. 👨‍💻 Passionate about Full Stack Development, I thrive on crafting meaningful and efficient applications. Let's connect and explore the world of code! 🚀.</div>  
+### <div align="center">Hey there! 👋 I'm Ansh Yadav,  👨‍💻 Passionate about MERN Stack , I thrive on crafting meaningful and efficient applications. Let's connect and explore the world of code! 🚀.</div>  
   
 
 - 👨‍💻 Ansh Yadav, B.Tech in Computer Science.  
@@ -55,9 +55,13 @@
 </div>
 
 </td><td valign="top" width="33%">
+
+  
   ### Data Structure and Algorithm
-  <div align="center">  
-<a href="<Your_DSA_Icon_Link>" target="_blank"><img style="margin: 10px" src=" " alt="DSA" height="50" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+  
 </td></tr></table>  
 
 <br/>  
