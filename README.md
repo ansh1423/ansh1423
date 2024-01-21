@@ -56,7 +56,8 @@
 
 </td><td valign="top" width="33%">
   ### Data Structure and Algorithm
-<a href="<Your_DSA_Icon_Link>" target="_blank"><img style="margin: 10px" src="<Your_DSA_Icon_Source>" alt="DSA" height="50" /></a>
+  <div align="center">  
+<a href="<Your_DSA_Icon_Link>" target="_blank"><img style="margin: 10px" src=" " alt="DSA" height="50" /></a>
 </td></tr></table>  
 
 <br/>  
