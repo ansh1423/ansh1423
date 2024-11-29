@@ -15,7 +15,7 @@
 
 - 🔭 Working on TechPyro.
 
-- 💻 Proficient in MERN stack.
+- 💻 Proficient in MERN stack and Java Developer.
   
 
 <br/>  
